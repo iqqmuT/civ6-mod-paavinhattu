@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>Paavinhattu</Name>
+    <Guid>31b35998-615e-4001-8fa1-90e9f09d7d6b</Guid>
+    <ProjectGuid>7fde4fdc-f5e7-473b-b45c-234905e813d5</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Replaces Crater Lake natural wonder with Paavinhattu.</Teaser>
+    <Description>Replaces Crater Lake natural wonder with Paavinhattu.</Description>
+    <Authors>iqqmuT</Authors>
+    <SpecialThanks>
+    </SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>Paavinhattu</AssemblyName>
+    <RootNamespace>Paavinhattu</RootNamespace>
+    <InGameActionData><![CDATA[<InGameActions><UpdateText id="Text"><File>Paavinhattu_Text.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="Paavinhattu.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Paavinhattu_Text.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>
