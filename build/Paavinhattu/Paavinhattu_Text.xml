@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- Remove original values -->
+		<Delete Tag="LOC_FEATURE_CRATER_LAKE_NAME" Language="en_US" />
+		<Delete Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION" Language="en_US" />
+		<Delete Tag="LOC_FEATURE_CRATER_LAKE_QUOTE" Language="en_US" />
+		<Delete Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CRATER_LAKE_CHAPTER_HISTORY_PARA_1" Language="en_US" />
+
+		<!-- Add new values -->
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_NAME" Language="en_US">
+			<Text>Paavinhattu</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_DESCRIPTION" Language="en_US">
+			<Text>Yhden ruudun ihme juttu. On vähä niinku Järvisen Matti ja antaa raikasta vettä. Suoltaa +4 [ICON_Faith] uskoa ja +1 [ICON_SCIENCE] höpötiedettä.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_CRATER_LAKE_QUOTE" Language="en_US">
+			<Text>"Ei paskan häävi." -Olli</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CRATER_LAKE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Paavinhattu on Vammalan mystisimpiä paikkoja. 300-luvulla oli kylmä ja Paavi tarvitsi hatun. Tarina ei kuitenkaan kerro miksi paikan nimi on Paavinhattu. Huhujen mukaan Nekku on nähty alueella.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

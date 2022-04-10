@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="31b35998-615e-4001-8fa1-90e9f09d7d6b" version="1">
+  <Properties>
+    <Name>Paavinhattu</Name>
+    <Description>Replaces Crater Lake natural wonder with Paavinhattu.</Description>
+    <Created>1649583660</Created>
+    <Teaser>Replaces Crater Lake natural wonder with Paavinhattu.</Teaser>
+    <Authors>iqqmuT</Authors>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+  </Properties>
+  <InGameActions>
+    <UpdateText id="Text">
+      <File>Paavinhattu_Text.xml</File>
+    </UpdateText>
+  </InGameActions>
+  <Files>
+    <File>Paavinhattu_Text.xml</File>
+  </Files>
+</Mod>
