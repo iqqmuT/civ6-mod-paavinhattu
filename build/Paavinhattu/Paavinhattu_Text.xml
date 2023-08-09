@@ -20,5 +20,40 @@
 		<Row Tag="LOC_PEDIA_FEATURES_PAGE_FEATURE_CRATER_LAKE_CHAPTER_HISTORY_PARA_1" Language="en_US">
 			<Text>Paavinhattu on Vammalan mystisimpiä paikkoja. 300-luvulla oli kylmä ja Paavi tarvitsi hatun. Tarina ei kuitenkaan kerro miksi paikan nimi on Paavinhattu. Huhujen mukaan Nekku on nähty alueella.</Text>
 		</Row>
+
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PETER_ILYICH_TCHAIKOVSKY_NAME" Language="en_US">
+			<Text>Martti Servo</Text>
+		</Row>
+
+		<Delete Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME" Language="en_US" />
+		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_1_NAME" Language="en_US">
+			<Text>Ufo tarjosi kaakaon</Text>
+		</Row>
+
+		<Delete Tag="LOC_GREATWORK_TCHAIKOVSKY_2_NAME" Language="en_US" />
+		<Row Tag="LOC_GREATWORK_TCHAIKOVSKY_2_NAME" Language="en_US">
+			<Text>Viikonloppu</Text>
+		</Row>
+
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENGHIS_KHAN_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_GENGHIS_KHAN_NAME" Language="en_US">
+			<Text>Kalervo Kummola</Text>
+		</Row>
+
+		<Delete Tag="LOC_GREAT_PERSON_INDIVIDUAL_JUVENTINO_ROSAS_NAME" Language="en_US" />
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_JUVENTINO_ROSAS_NAME" Language="en_US">
+			<Text>Topi Sorsakoski</Text>
+		</Row>
+
+		<Delete Tag="LOC_UNIT_WARRIOR_NAME" Language="en_US" />
+		<Row Tag="LOC_UNIT_WARRIOR_NAME" Language="en_US">
+			<Text>Korona-Harri</Text>
+		</Row>
+
+		<Delete Tag="LOC_UNIT_WARRIOR_DESCRIPTION" Language="en_US" />
+		<Row Tag="LOC_UNIT_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>Sairauden runtelema uniitti. Jos odotat että tämä kaveri tulee rintamalle, petyt varmasti. Monet tekevät sen virheen, että pyytävät häntä tekemään koronatestin ennen palvelukseen astumista. Mukiin ja rommiin menevä hieno mies kaikesta huolimatta!</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
